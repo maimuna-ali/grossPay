@@ -1,0 +1,5 @@
+students=["john","alice","bob","jane"]
+if "john"in students:
+  print("present")
+else:
+  print("absent")
